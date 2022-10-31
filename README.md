@@ -163,14 +163,19 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 
 ## OUTPUT
-
+```
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://user-images.githubusercontent.com/112486797/199001819-16dafad0-0dec-4eb8-8b13-ed6d9a162f08.png)
+ ![image](https://user-images.githubusercontent.com/112486797/199001819-16dafad0-0dec-4eb8-8b13-ed6d9a162f08.png)
+ ![image](https://user-images.githubusercontent.com/112486797/199002573-faa2944a-4b80-4a2e-b1aa-1e40799b287c.png)
+![image](https://user-images.githubusercontent.com/112486797/199002712-9b70901c-fbee-4afd-b830-5e05d5e37fa9.png)
 
 
-Include your plot here
+
+
 
 ### Sample Text Prediction
-Include your sample text prediction here.
+![image](https://user-images.githubusercontent.com/112486797/199003081-0ed6aec4-7ebe-4b32-a72e-413a5e4a055c.png)
+
 
 ## RESULT
+Thus, the program has been implemented successfully and the result was obtained.
