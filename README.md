@@ -158,11 +158,15 @@ print("{:15}{:5}\t {}\n".format("Word", "True", "Pred"))
 print("-" *30)
 for w, true, pred in zip(X_test[i], y_true, p[0]):
     print("{:15}{}\t{}".format(words[w-1], tags[true], tags[pred]))
+    
     ```
+
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![image](https://user-images.githubusercontent.com/112486797/199001819-16dafad0-0dec-4eb8-8b13-ed6d9a162f08.png)
+
 
 Include your plot here
 
